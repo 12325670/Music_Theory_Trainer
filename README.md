@@ -11,3 +11,12 @@ An interactive desktop application that teaches music theory using **Google Gemi
 - **Threaded Processing**: Non-blocking UI during AI responses
 - **Developer Mode**: Answers meta-questions about the project/team
 - **Responsive Design**: Works on 600x500 resolution and above
+## 🛠️ Technologies Used
+
+| Component       | Technology/Library |
+|----------------|--------------------|
+| GUI Framework  | `tkinter`, `ttk`   |
+| AI Backend     | `google.generativeai` (Gemini) |
+| Async Handling | `threading`, `queue` |
+| Environment    | `python-dotenv`    |
+| Text Display   | `scrolledtext`     |
